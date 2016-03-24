@@ -1,6 +1,6 @@
 {
   "name": "ent-hapi-elasticsearch",
-  "version": "1.1.5",
+  "version": "2.0.0",
   "description": "Elasticsearch utilities for hapi",
   "main": "lib/index.js",
   "directories": {
